@@ -1,0 +1,22 @@
+{
+    "name": "cmatosbc/oopress-logger",
+    "type": "library",
+    "require": {
+        "psr/log": "^3.0"
+    },
+    "license": "GPL-3.0-or-later",
+    "authors": [
+        {
+            "name": "cmatosbc",
+            "email": "carlosarturmatos1977@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Oopress\\": "src/"
+        },
+        "files": [
+            "src/Loggers/functions.php"
+        ]
+    }
+}
