@@ -1,5 +1,6 @@
 {
     "name": "cmatosbc/oopress-logger",
+    "description": "A set of PSR compliant loggers for Wordpress and more.",
     "type": "library",
     "require": {
         "psr/log": "^3.0"
