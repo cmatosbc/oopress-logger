@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => 'cmatosbc/oopress-logger',
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
-        'reference' => null,
+        'pretty_version' => 'dev-main',
+        'version' => 'dev-main',
+        'reference' => 'aeaad0964a49c096371a33b012fa0ce373466e97',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -11,9 +11,9 @@
     ),
     'versions' => array(
         'cmatosbc/oopress-logger' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
-            'reference' => null,
+            'pretty_version' => 'dev-main',
+            'version' => 'dev-main',
+            'reference' => 'aeaad0964a49c096371a33b012fa0ce373466e97',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
